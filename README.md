@@ -1,4 +1,4 @@
-# Hi there, I'm [Wahid] 👋
+# Hi there, I'm Wahid 👋
 ### Front-End Developer | Next.js Enthusiast | UI/UX Passionate
 
 I'm a passionate **Front-End Developer** with a focus on building fast, modern, and responsive web applications using **Next.js**. I love turning ideas into interactive experiences that users enjoy.
